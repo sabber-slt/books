@@ -16,15 +16,15 @@
 
 ممکن است در برخی موارد، اشکالاتی در ترجمه کلمات یا اصطلاحات رخ داده باشد که ناشی از محدودیت‌های ماشینی است. اگر شما نیز چنین مواردی را مشاهده کردید، خواهشمندیم که از طریق ارسال پیام یا استفاده از امکانات ارتباطی موجود، مراتب را به اطلاع ما برسانید. در نظر داشته باشید که چند روز پس از رفع اشکالات، نسخه‌های PDF و EPUB کتاب نیز در دسترس قرار خواهد گرفت.
 
-## دانلود
+## Download
 
-| ردیف | فرمت |                           فایل                           |
-| :--: | :--: | :------------------------------------------------------: |
-|  1   | pdf  |          [ECUE.pdf](https://github.com/xiaolai)          |
-|  2   | epub |         [ECUE.epub](https://github.com/xiaolai)          |
-|  3   | mdx  | [md](https://github.com/sabber-slt/books/tree/main/book) |
+| ردیف | فرمت |                                              فایل                                              |
+| :--: | :--: | :--------------------------------------------------------------------------------------------: |
+|  1   | pdf  |  [ECUE.pdf](https://github.com/sabber-slt/books/blob/main/files/everyone-can-use-english.pdf)  |
+|  2   | epub | [ECUE.epub](https://github.com/sabber-slt/books/blob/main/files/everyone-can-use-english.epub) |
+|  3   | mdx  |                    [md](https://github.com/sabber-slt/books/tree/main/book)                    |
 
-## بخش‌ها
+## فصل‌ها
 
 -[مقدمه](book/README.md)
 
