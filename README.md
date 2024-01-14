@@ -20,8 +20,8 @@
 
 | ردیف | فرمت |                                              فایل                                              |
 | :--: | :--: | :--------------------------------------------------------------------------------------------: |
-|  1   | pdf  |  [ECUE.pdf](https://github.com/sabber-slt/books/blob/main/files/everyone-can-use-english.pdf)  |
-|  2   | epub | [ECUE.epub](https://github.com/sabber-slt/books/blob/main/files/everyone-can-use-english.epub) |
+|  1   | pdf  |  [ECUE.pdf](blob:https://github.com/2e575764-46f5-4bda-9e39-5a01e482cd58)  |
+|  2   | epub | [ECUE.epub](blob:https://github.com/b2939c5c-45a2-454b-b6bc-8653cc05af1d) |
 |  3   | mdx  |                    [md](https://github.com/sabber-slt/books/tree/main/book)                    |
 
 ## فصل‌ها
